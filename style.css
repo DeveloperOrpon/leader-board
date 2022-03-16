@@ -1,0 +1,75 @@
+body {
+  font-family: "Poppins";
+  background-color: #e5e5e5;
+}
+
+.container {
+  width: 100% !important;
+}
+.bg-navbar {
+  background-color: #562eff;
+}
+.brand-logo img {
+  width: 40px;
+  height: 51px;
+  margin-left: 285px;
+}
+.brand-logo h1 {
+  display: inline-block;
+  font-size: 24px;
+  margin-left: 15px;
+  padding: 5px;
+  font-weight: 500;
+}
+#navbar-image {
+  margin-right: 290px;
+  height: 51px;
+  height: 51px;
+  margin-bottom: 5px;
+}
+.nav-item {
+  margin-right: 15px;
+  margin-top: 5px;
+}
+.nav-item a {
+  font-size: 16px;
+}
+.top-player {
+  width: 870px;
+  height: 679px;
+  margin-top: 30px;
+  margin-left: 285px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.top-img {
+  height: 56px;
+  width: 56px;
+}
+.row h1 {
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 10px;
+  display: inline-block;
+}
+.image {
+  padding: 40px;
+}
+.headding-text {
+  color: #562eff;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  padding: 15px;
+}
+.blog-img {
+  height: 117px;
+  width: 117px;
+}
+.card {
+  min-width: 150px;
+  max-height: 150px;
+  overflow: hidden;
+  border: none;
+}
